@@ -1,0 +1,24 @@
+{
+  "name": "angular-creditbitcore-wallet-client",
+  "version": "0.0.24",
+  "description": "AngularJS module for creditbitcore-wallet-client library",
+  "author": "creditbit",
+  "license": "MIT",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:creditbit/angular-creditbitcore-wallet-client.git"
+  },
+  "ignore": [
+    "**/.*",
+    "lib",
+    "node_modules",
+    "bower_components",
+    "Gruntfile.js",
+    "Makefile",
+    "index.js",
+    "test",
+    "Makefile",
+    "package.json"
+  ]
+}
