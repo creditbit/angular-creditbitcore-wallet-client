@@ -2137,9 +2137,9 @@ var $ = require('preconditions').singleton();
 var Utils = {};
 
 var _UNITS = {
-  CREDIT: {
+  CRBIT: {
     toSatoshis: 100000000,
-    decimals: 6
+    decimals: 8
   },
   bit: {
     toSatoshis: 100,
