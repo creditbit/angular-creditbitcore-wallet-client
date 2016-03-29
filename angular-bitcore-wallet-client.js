@@ -2139,7 +2139,7 @@ var Utils = {};
 var _UNITS = {
   CRBIT: {
     toSatoshis: 100000000,
-    decimals: 8
+    decimals: 6
   },
   bit: {
     toSatoshis: 100,
